@@ -1,0 +1,15 @@
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\bin\Debug\AngleDataToPathData.exe.config
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\bin\Debug\AngleDataToPathData.exe
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\bin\Debug\AngleDataToPathData.pdb
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\bin\Debug\Newtonsoft.Json.dll
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\bin\Debug\System.IO.Compression.dll
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\bin\Debug\Newtonsoft.Json.xml
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\obj\Debug\AngleDataToPathData.Form1.resources
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\obj\Debug\AngleDataToPathData.Properties.Resources.resources
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\obj\Debug\AngleDataToPathData.csproj.GenerateResource.cache
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\obj\Debug\AngleDataToPathData.csproj.CoreCompileInputs.cache
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\obj\Debug\AngleDataToPathData.csproj.CopyComplete
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\obj\Debug\AngleDataToPathData.exe
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\obj\Debug\AngleDataToPathData.pdb
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\obj\Debug\AngleDataToPathData.csprojAssemblyReference.cache
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\AngleDataToPathData\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
