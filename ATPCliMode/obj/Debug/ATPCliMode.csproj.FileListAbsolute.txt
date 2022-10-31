@@ -1,0 +1,10 @@
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\obj\Debug\ATPCliMode.csprojAssemblyReference.cache
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\obj\Debug\ATPCliMode.csproj.CoreCompileInputs.cache
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\bin\Debug\ATPCliMode.exe.config
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\bin\Debug\ATPCliMode.exe
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\bin\Debug\ATPCliMode.pdb
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\bin\Debug\Newtonsoft.Json.dll
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\bin\Debug\Newtonsoft.Json.xml
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\obj\Debug\ATPCliMode.csproj.CopyComplete
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\obj\Debug\ATPCliMode.exe
+D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\obj\Debug\ATPCliMode.pdb

@@ -1,0 +1,10 @@
+Newtonsoft.Json.JsonReaderException: After parsing a value an unexpected character was encountered: ". Path 'actions', line 73, position 1.
+   在 Newtonsoft.Json.JsonTextReader.ParsePostValue(Boolean ignoreComments)
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Linq.JContainer.ReadContentFrom(JsonReader r, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JContainer.ReadTokenFrom(JsonReader reader, JsonLoadSettings options)
+   在 Newtonsoft.Json.Linq.JObject.Load(JsonReader reader, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json, JsonLoadSettings settings)
+   在 Newtonsoft.Json.Linq.JObject.Parse(String json)
+   在 ATPCliMode.Lib.AdofaiParse(String jsonText) 位置 D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\lib.cs:行号 65
+   在 ATPCliMode.Program.Main(String[] args) 位置 D:\C#类编程文件\adofai\ADTPD\AngleDataToPathData\ATPCliMode\Program.cs:行号 77
